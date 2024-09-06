@@ -1,0 +1,22 @@
+perfect-binary-tree
+   1. every node has either 2-children or nothing
+
+complete-binary-tree
+   1. 2nd-last level = perfect-binary-tree
+   2. last level = fill left -> right
+
+
+array representation complete-Binary-tree === HEAP
+0-base indexing;
+****
+i->left = i*2 +1
+i->right = i*2 +2
+i->parent = (i-1)/2
+
+
+1.Max-Heap: [parent > children]
+   return maxValue from array
+   
+2.Min-Heap: [parent < children]
+   return minValue from array
+  

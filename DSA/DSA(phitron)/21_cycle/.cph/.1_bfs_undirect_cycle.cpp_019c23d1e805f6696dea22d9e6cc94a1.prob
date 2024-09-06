@@ -1,0 +1,1 @@
+{"name":"Local: 1_bfs_undirect_cycle","url":"h:\\My Drive\\Codes\\DSA\\DSA(phitron)\\21_cycle\\1_bfs_undirect_cycle.cpp","tests":[{"id":1709646923081,"input":"7 6\n0 1\n1 2\n3 4\n4 5\n5 6\n6 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\My Drive\\Codes\\DSA\\DSA(phitron)\\21_cycle\\1_bfs_undirect_cycle.cpp","group":"local","local":true}

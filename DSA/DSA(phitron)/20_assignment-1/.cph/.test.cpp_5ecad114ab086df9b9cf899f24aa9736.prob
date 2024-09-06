@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"h:\\My Drive\\Codes\\DSA\\DSA(phitron)\\20_assignment-1\\test.cpp","tests":[{"id":1709602741525,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\My Drive\\Codes\\DSA\\DSA(phitron)\\20_assignment-1\\test.cpp","group":"local","local":true}
